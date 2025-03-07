@@ -1,1 +1,0 @@
-# -photographer-booking-system
